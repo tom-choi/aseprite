@@ -1,3 +1,7 @@
+# Aseprite 在線打包工具
+- 打開 GITHUB ACTION 就可以直接下載已經編譯好的工具
+
+
 # Aseprite
 
 [![build](https://github.com/aseprite/aseprite/actions/workflows/build.yml/badge.svg)](https://github.com/aseprite/aseprite/actions/workflows/build.yml)
